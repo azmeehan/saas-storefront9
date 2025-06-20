@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/azmeehan/saas-storefront9/
+    type: markup
+
+folders:
+  /products/: /products/default
